@@ -423,6 +423,7 @@ header button:hover a {
     color: white;
     margin: 0 auto;
     display: block;
+    cursor: pointer;
 }
 
 /* footer */
@@ -499,7 +500,7 @@ footer .item form input[type="submit"] {
     border: none;
     float: right;
     color: #FFF;
-    padding: 0
+    padding: 0;
 }
 
 footer .copyright {
