@@ -1,5 +1,5 @@
 header {
-    background-image: url(../imgs/header.jpg);
+    background-image: url(../images/header.jpg);
     background-size: cover;
 }
 
@@ -317,7 +317,7 @@ header button:hover a {
 /* agency */
 
 .agency {
-    background-image: url('../imgs/agency.jpg');
+    background-image: url('../images/agency.jpg');
     font-family: 'Open Sans', sans-serif;
     background-size: cover;
 }
@@ -380,7 +380,7 @@ header button:hover a {
 /* contact */
 
 .contact {
-    background-image: url('../imgs/contact.jpg');
+    background-image: url('../images/contact.jpg');
     background-size: cover;
 }
 
